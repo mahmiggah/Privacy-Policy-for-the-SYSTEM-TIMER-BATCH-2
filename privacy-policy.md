@@ -1,8 +1,8 @@
-# Privacy Policy for Glass Timer
+# Privacy Policy for  SYSTEM-TIMER-BATCH-2
 
 **Effective Date:** May 13, 2026
 
-This privacy policy applies to the **Glass Timer** app (also known as *System Timer Batch 2*) developed by Mahmigga.
+This privacy policy applies to the ** SYSTEM-TIMER-BATCH-2** app (also known as *System Timer Batch 2*) developed by Mahmigga.
 
 ## 1. No Data Collection
 
