@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy – Glass Timer</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; }
+        h1 { color: #0f172a; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Glass Timer</h1>
+    <p><strong>Effective Date:</strong> May 13, 2026</p>
+    <p>This privacy policy applies to the <strong>Glass Timer</strong> app (also known as <em>System Timer Batch 2</em>) developed by Mahmigga.</p>
+
+    <h2>1. No Data Collection</h2>
+    <p>The app is a simple timer. It <strong>does not collect, use, save, or share any personal information</strong>.</p>
+    <ul>
+        <li>No data is transmitted to any server.</li>
+        <li>No analytics or tracking tools are embedded.</li>
+        <li>No third‑party services are integrated.</li>
+    </ul>
+
+    <h2>2. Local Storage Only</h2>
+    <p>The app uses your device’s local storage only to remember your preferences (e.g., timer name, count mode settings). This data stays on your device and is never sent to the internet. You can clear it by uninstalling the app.</p>
+
+    <h2>3. No Sharing</h2>
+    <p>Because the app collects no data, it does not share any information with third parties.</p>
+
+    <h2>4. Children’s Privacy</h2>
+    <p>The app does not knowingly collect any information from children. It is safe for all ages.</p>
+
+    <h2>5. Changes to This Policy</h2>
+    <p>Any future changes to this policy will be posted on this page. The “Effective Date” at the top will be updated.</p>
+
+    <h2>6. Contact</h2>
+    <p>If you have any questions about this privacy policy, you can contact the developer at: <strong>mahmigga@example.com</strong> (replace with your actual email address).</p>
+
+    <hr>
+    <p>© Mahmigga. All rights reserved.</p>
+</body>
+</html>
